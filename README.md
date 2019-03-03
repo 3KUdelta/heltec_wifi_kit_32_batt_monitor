@@ -1,4 +1,5 @@
-# heltec_wifi_kit_32_batt_monitor
+# HELTEC WIFI Kit 32 Battery Monitor
+
 Shows batt status on a Heltec WIFI Kit 32
 
 Simple code for those who are interested in reading the batt status on a WIFI Kit 32. 
