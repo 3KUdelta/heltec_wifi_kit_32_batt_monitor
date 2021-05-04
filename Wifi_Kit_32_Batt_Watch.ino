@@ -60,7 +60,7 @@ void loop()
   u8g2.drawStr(1, 15, buf);
 
   drawbatt(val);
-  u8g2.sendBuffer();                            // Send the display buffer to the Blynk.run();
+  u8g2.sendBuffer();                            // Send the display buffer to the screen
 
 delay(100); 
 }
